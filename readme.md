@@ -6,11 +6,12 @@ Proyektdeki funksiyalar:
 2) Yeni kateqoriya əlavə etdikdə "categories" 
   hissəsində görünmə limitini ləğv etmək 
 3) Search zamanı Postlardan əlavə About
- və Exam səhifələrində də axtarış etmək 
+ səhifəsinndə də axtarış etmək 
 4) Search zamanı Postlarda çıxan yanlış 
  şəkil problemini aradan qaldırmaq 
 5) Post altında yazıçının üzərinə clickləyərək 
- onun digər postlarına baxmaq 
+ onun digər postlarına baxmaq (ən son qoyulan 
+  postların ən birinci gəlməsi şərti ilə)
 6) Hər bir Post üçün izlənmə sayı tarix
    və saatın qeyd olunması
 7) Hər bir istifadəçinin "post" üçün 
